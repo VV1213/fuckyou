@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    color: white;
+}
+body h2 {
+    color: red;
+}
+body h3 {
+    color: yellow;
+}
