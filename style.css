@@ -1,5 +1,9 @@
 body {
-    background-color: black;
+    background-image:url('https://giffiles.alphacoders.com/218/218939.gif');
+    background-position: center;
+    background-size: cover;
+}
+body h1 {
     color: white;
 }
 body h2 {
